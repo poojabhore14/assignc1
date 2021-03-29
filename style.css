@@ -1,0 +1,47 @@
+.cusnav{
+    background-color: black;
+
+}
+.custom-con {
+    padding: 5% 0 5% 15%;
+  }
+  .logo {
+    margin-left: 20%;
+  }
+.pc{
+  color: rgb(206, 7, 7);
+  background: rgb(255, 251, 7);
+} 
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.card-title{
+  color: black;
+  font-family:  Verdana, sans-serif;
+}
+.card{
+  border-radius: 5%;
+  border-color: black;
+
+}
+.par{
+  color: rgb(109, 20, 192);
+}.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(14, 60, 145);
+  color: rgb(255, 255, 255);
+}
+.social-top{
+  color: rgb(250, 225, 6);
+  background: rgb(16, 47, 68);
+}
+.carousel-caption h3{
+  color: rgb(182, 31, 162);
+}
+.pimg{
+  border-radius: 15px;
+}
